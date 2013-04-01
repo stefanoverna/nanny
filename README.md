@@ -35,7 +35,7 @@ torrent.first.torrent_url
 
 or as a CLI tool:
 
-[cli usage](https://raw.github.com/stefanoverna/nanny/master/doc/cli.png)
+![cli usage](https://raw.github.com/stefanoverna/nanny/master/doc/cli.png)
 
 ## Contributing
 
