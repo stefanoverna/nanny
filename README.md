@@ -1,7 +1,7 @@
 # Nanny [![Build Status](https://travis-ci.org/stefanoverna/nanny.png?branch=master)](https://travis-ci.org/stefanoverna/nanny)
 
-Nanny is a library that uses multiple torrent search engine to find a valid direct
-link to a Torrent. It currently supports Torrentz.eu, Torcache.net and Torrage.com
+Nanny is a ruby gem that uses multiple torrent search-engines to find a valid direct
+links to torrents. It currently supports Torrentz.eu, Torcache.net and Torrage.com
 
 ## Installation
 
