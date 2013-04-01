@@ -1,12 +1,13 @@
 # Nanny
 
-Nanny is 
+Nanny is a library that uses multiple torrent search engine to find a valid direct
+link to a Torrent. It currently supports Torrentz.eu, Torcache.net and Torrage.com
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'torrent'
+    gem 'nanny'
 
 And then execute:
 
@@ -14,11 +15,27 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install torrent
+    $ gem install nanny
 
 ## Usage
 
-TODO: Write usage instructions here
+You can use `nanny` programmatically:
+
+```ruby
+require 'nanny'
+
+torrents = Nanny::Search.new.search_torrents("Ubuntu")
+
+torrent.first 
+# => <Nanny::Torrent @title="Ubuntu 12 10 Desktop i386", @url="http://torrentz.eu/335990d615594b9be409ccfeb95864e24ec702c7", @seeds=2158, @peers=32, @size=789577728, @hash="335990d615594b9be409ccfeb95864e24ec702c7">
+
+torrent.first.torrent_url 
+# => "http://torcache.net/torrent/335990D615594B9BE409CCFEB95864E24EC702C7.torrent"
+```
+
+or as a CLI tool:
+
+[cli usage](https://raw.github.com/stefanoverna/nanny/master/doc/cli.png)
 
 ## Contributing
 
