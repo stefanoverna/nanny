@@ -1,0 +1,103 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://torrentz.eu/feed?q=The%20Office%20Season%208
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24veG1s
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bWF4LWFnZT0zMjgsIHB1YmxpYw==
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        NjA0
+      !binary "RGF0ZQ==":
+      - !binary |-
+        RnJpLCAwOCBGZWIgMjAxMyAwOTo1Mzo1MCBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAACA62VXW+bMBSGr9NfcYS0q6zBNnb4ECHa1k29qTYp3e4NHAc0
+        Agw7ydpfPweSNNLaDqnjyh/nvOf4fQzEy9+bCnbY6bKpFw6dEWeZXMWd1k+L
+        zC6CDat1JE2zWTiFMW3kuvv9frb3Zk23dhkhwv1gN53kCgDirJB1jVVyNbET
+        U5oKk/um67A2j3AN9wXCV6XKDGGFUjc1BLE7RPUJVVn/TI5FzDFthltXo+yy
+        YvlrYQWmg8B0EJhagT6rz89RZ13ZGtt98kwtGHRi9zJuKCzr9VauMcH6equt
+        5Gne7x4OHx2qQNGhOttw2aFCzIf+3jEylLWDobAdBA50WC0cjZVywDy0uHBk
+        21ZlJg9NuNb2qTXaAXeoWBrc2NHk7OHTYb6vehs/NZu2QnNxuNub+x9Pbk5e
+        dlPNMxEGORUChaf80Ms5C0XApJKSzolilNDUU+nZWau13pb527R6hV6r3aY3
+        0mDypSvfA6VwJx+AEcqABhEjEfNhSuwTu6fAPss6heume0jMDnZljg3ootlb
+        VueNPuwS7ap8xAg4pT7cfbRGYa4j8BiDb2iveARBCLdSFxGMP8VfN8c9onod
+        2hnS57bUjRUBCpSNouVl1JfcT6lkAWFCKo97ufK5JzzBORE5DylPuT+G1nit
+        F2gxcUGLRTyMyPx1WgMqs/s3J0bC4IITOVGiR0jjm387JKCj2DA/yCUXnPk0
+        D4n0BVW+ylg491MZhqHnoRSI6ag3abzWGDYk4jSyK/+JDfXFc2jIEc343l9G
+        Y5s4/Tviw/cw+QMsro0BogYAAA==
+    http_version: 
+  recorded_at: Fri, 08 Feb 2013 09:53:50 GMT
+- request:
+    method: head
+    uri: http://torcache.net/torrent/F6C598D155E53F793D429582AFAA160F2101B3FB.torrent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx/1.3.8
+      Date:
+      - Fri, 08 Feb 2013 09:54:29 GMT
+      Content-Type:
+      - application/octet-stream
+      Content-Length:
+      - '11419'
+      Last-Modified:
+      - Wed, 26 Sep 2012 15:15:03 GMT
+      Connection:
+      - keep-alive
+      Etag:
+      - ! '"50631bf7-2c9b"'
+      Content-Encoding:
+      - gzip
+      Accept-Ranges:
+      - bytes
+    body:
+      encoding: US-ASCII
+      string: ''
+    http_version: 
+  recorded_at: Fri, 08 Feb 2013 09:53:50 GMT
+recorded_with: VCR 2.4.0

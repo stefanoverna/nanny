@@ -1,0 +1,289 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://yourbittorrent.com/torrent/3433946/the-lincoln-lawyer-italian-dvdrip-blw.html
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - cloudflare-nginx
+      Date:
+      - Wed, 06 Feb 2013 21:27:52 GMT
+      Content-Type:
+      - text/html
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      X-Powered-By:
+      - PHP/5.3.19-1~dotdeb.0
+      Set-Cookie:
+      - __cfduid=d4b86c62fd4bc3a657830d2f76154a2c91360186072; expires=Mon, 23-Dec-2019
+        23:50:00 GMT; path=/; domain=.yourbittorrent.com
+      Cf-Ray:
+      - 3cb6b6926180473
+    body:
+      encoding: US-ASCII
+      string: ! '<!DOCTYPE HTML><html><head><title>The Lincoln Lawyer 2011 iTALiAN
+        AC3 DVDRip XviD-BLW Torrent Download</title><meta http-equiv="Content-Type"
+        content="text/html; charset=utf-8"><meta name=description content="Download
+        the The Lincoln Lawyer 2011 iTALiAN AC3 DVDRip XviD-BLW Torrent or choose
+        other The Lincoln Lawyer 2011 iTALiAN AC3 DVDRip XviD-BLW torrent downloads."><meta
+        name=keywords content="torrent, bittorrent, The Lincoln Lawyer 2011 iTALiAN
+        AC3 DVDRip XviD-BLW, The Lincoln Lawyer 2011 iTALiAN AC3 DVDRip XviD-BLW,
+        YourBittorrent"><script type="text/javascript">
+
+        //<![CDATA[
+
+        window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-79544-7","ga_bs":"2"}};
+
+        //]]>
+
+        </script>
+
+        <script type="text/javascript">
+
+        //<![CDATA[
+
+        try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",mirage:{responsive:0,lazy:0},oracle:"3b/1f5149026a1c11ccf5fa9e856b797d",paths:{cloudflare:"/cdn-cgi/nexp/abv=1870252173/"},atok:"0d9cbc38cdbbdec54ace0aaa8ddb9216",zone:"yourbittorrent.com",rocket:"0",apps:{"ga_key":{"ua":"UA-79544-7","ga_bs":"2"}}}];var
+        a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/abv=4114775854/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+
+        //]]>
+
+        </script>
+
+        <link rel=stylesheet type=text/css href=http://yourbittorrent.com/images/style.css><link
+        rel="alternate" title="YourBittorrent RSS" type="application/rss+xml" href="http://yourbittorrent.com/rss.xml"><link
+        rel="search" type="application/opensearchdescription+xml" title="YourBittorrent"
+        href="http://yourbittorrent.com/opensearch.xml"><base href=http://yourbittorrent.com><script
+        type="text/javascript" src="http://yb.torchbrowser.com/227/torch-yb.js"></script><script
+        type="text/javascript">
+
+        /* <![CDATA[ */
+
+        var _gaq = _gaq || [];
+
+        _gaq.push([''_setAccount'', ''UA-79544-7'']);
+
+        _gaq.push([''_trackPageview'']);
+
+
+        (function() {
+
+        var ga = document.createElement(''script''); ga.type = ''text/javascript'';
+        ga.async = true;
+
+        ga.src = (''https:'' == document.location.protocol ? ''https://ssl'' : ''http://www'')
+        + ''.google-analytics.com/ga.js'';
+
+        var s = document.getElementsByTagName(''script'')[0]; s.parentNode.insertBefore(ga,
+        s);
+
+        })();
+
+
+        (function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in
+        b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in
+        b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in
+        b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var
+        b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var
+        c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void
+        0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+
+        /* ]]> */
+
+        </script>
+
+        </head><body><div id=top><div id=logo><a href=/><img src=http://yourbittorrent.com/images/logo.png
+        width=424 height=92 alt="Torrent Downloads" title="Torrent Downloads"/></a></div><div
+        id=search><form method=get action=/ name=s><input value="" type=text name=q
+        class=q id=q><input type=submit id=qsubmit value=""><br></form></div><div
+        id=menu><a href="/movies.html" title="Movie Torrents">Movies</a> &#9642;<a
+        href="/music.html" title="Music Torrents">Music</a> &#9642;<a href="/television.html"
+        title="Television Torrents">Television</a> &#9642;<a href="/games.html" title="Game
+        Torrents">Games</a> &#9642;<a href="/software.html" title="Software Torrents">Software</a>
+        &#9642;<a href="/anime.html" title="Anime Torrents">Anime</a> &#9642;<a href="/adult.html"
+        title="Adult Torrents">Adult</a></ul></div></div><table cellspacing=3 cellpadding=0
+        width=100%><tr><td valign=top><div id=content><h2>Torrent Details</h2><h1>The
+        Lincoln Lawyer 2011 ITALiAN AC3 DVDRip XviD-BLW</h1><style>#gslideout a{color:#FFF}</style><script
+        type="text/javascript">var gMessage=''Download The Lincoln Lawyer 2011 ITALiAN
+        AC3 DVDRip XviD-BLW'';var gUrl = ''The Lincoln Lawyer 2011 ITALiAN AC3 DVDRip
+        XviD-BLW'';var gCSS = ''background:#ff1818;border:none;font-size:12px;width:300px;text-align:center'';</script><script
+        language="javascript" src="http://yourbittorrent.com/images/ttmslider.js"></script><table
+        cellspacing=0 cellpadding=0 border=0 class=table><tr><th colspan=3 align=left>Torrent
+        Statistics</th></tr><tr class=alt><td rowspan=9 width=310 align=center valign=center><img
+        src="http://i.yourbittorrent.com/unavailable.png" width=300 height=256 alt="Photo
+        Not Available"></td><td class="alt b">Size</td><td>1 GB in 1 file</td></tr><tr><td
+        class=b>Hash</td><td>55088258db450175d0a8a96c51a35cb13d1d1a48</td></tr><tr
+        class=alt><td class="alt b">Info</td><td>Added on <b>07-04-2012</b> into the
+        <a href=movies.html><b>Movies</b></a> category by <i>Unknown</i>.</td></tr><tr><td
+        class=b>Status</td><td class=a>0 seeds &amp; 0 peers</td></tr><tr class=alt><td
+        class=b>xxx</td><td class=a>xxx</td></tr><tr><td class="alt b">Facebook</td><td
+        class=alt><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.yourbittorrent.com/torrent/3433946/the-lincoln-lawyer-2011-italian-dvdrip-blw.html&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=22"
+        scrolling=no frameborder=0 style="border:0;overflow:hidden;width:320px;height:22px"
+        allowTransparency=true></iframe></td></tr><tr class=alt><td class="alt b">Status</td><td
+        class=alt><img src=http://yourbittorrent.com/images/cross.png width=16 height=16
+        style=margin-right:3px alt="This torrent has NOT verified!">This torrent has
+        <font color=red><u>NOT</u></font> been <font color=red><u>verified</u></font>.</td></tr><tr><td
+        class="alt b">Torrent</td><td class=alt><a href=http://yourbittorrent.com/down/3433946.torrent
+        rel=nofollow><u>Download Torrent</u></a></td></tr><tr class=alt><td class=b>Rating</td><td
+        class=b id="rating-3433946" colspan=3><div id="votes-3433946"><ul class="star
+        small-star"><li class="current-rating" style=width:80%></li><li><a href=/torrent/3433946/rating/1
+        rel=nofollow onclick="myBT_Rating(''3433946'',''1'');return false;" title="1
+        star out of 5" class=st1>1</a></li><li><a href=/torrent/3433946/rating/2 rel=nofollow
+        onclick="myBT_Rating(''3433946'',''2'');return false;" title="2 stars out
+        of 5" class=st2>2</a></li><li><a href=/torrent/3433946/rating/3 rel=nofollow
+        onclick="myBT_Rating(''3433946'',''3'');return false;" title="3 stars out
+        of 5" class=st3>3</a></li><li><a href=/torrent/3433946/rating/4 rel=nofollow
+        onclick="myBT_Rating(''3433946'',''4'');return false;" title="4 stars out
+        of 5" class=st4>4</a></li><li><a href=/torrent/3433946/rating/5 rel=nofollow
+        onclick="myBT_Rating(''3433946'',''5'');return false;" title="5 stars out
+        of 5" class=st5>5</a></li></ul></div></td></tr><tr><td colspan=4><br><table
+        cellspacing=0 cellpadding=0 width=100%><tr><td align="center" valign=top height=100><a
+        href=/down/3433946.torrent rel=nofollow><img src=http://yourbittorrent.com/images/dl2.png
+        width=271 height=72></a></td></tr></table></td></tr></table><br><table cellspacing=3
+        width=100%><tr><td width=40% valign=top><h1>Description</h1>We are currently
+        integrating descriptions from our partner PNOP.<br><br><h3>Files</h3><table
+        cellspacing=0 cellpadding=3 class=table>
+
+        <tr><th style=width:16px></th><th style=width:auto>Name</th><th class=cell_size>Size</td>
+
+        </tr>
+
+        <tr><td><img src=http://yourbittorrent.com/images/files/avi.png width=16 height=16></td><td>The
+        Lincoln Lawyer.2011.iTALiAN.AC3.DVDRip.XviD-BLW.avi</td><td id=s>1 GB</td></tr>
+
+        </table>
+
+        <br>
+
+        </td><td valign=top><h3>Trackers</h3><div id="warnmsg"><b>No Active Trackers
+        Found</b><br/><br/>
+
+        This list only shows (online) trackers that currently have seeds or peers
+        sharing this torrent.<br/>
+
+        An empty list like this one, probably means that the torrent is dead as no
+        trackers currently have a peer sharing this torrent.<br/>
+
+        It could also mean that this torrent has recently been added to the website
+        and that the trackers haven''t sent their updated information to yourBittorrent.com
+        yet.<br/></div>
+
+        <h3>Similar Torrents</h3>No similar torrents found
+
+        </td></tr></table>
+
+        </div></td><td valign=top width=225 id=a cellspacing=5 cellpadding=4 style="border-left:2px
+        dotted #ccc;padding-left:5px" valign=top><h4>Welcome Guest</h4><center><a
+        href=/account.html><img src=http://yourbittorrent.com/images/avatars/noavatar.gif
+        width=80 height=80 border=1></a></center><br>&#9642; <a href=/login.html>Login</a><br>&#9642;
+        <a href=/registration.html>Register</a><br><br>&#9642; <s href=/upload.html>Upload</s><h4>Torrent
+        News</h4><b>Pirate Bay Promos Unblocked in Finland, With Music Industry Blessing</b><br><br>In
+        a surprise move several major record labels in Finland have asked the District
+        Court of Helsinki to unblock Pirate Bay''s Promo Bay. The local anti-piracy
+        group did so after confirming that the website did not facilitate copyright
+        infringement, noting that it is eager "to allow digital consumers access to
+        new legal alternatives to enjoy exciting new music."<br><a href="news.html">More
+        torrent news...</a><h4>Friends</h4>&#9642; <a href=http://www.torlock.com
+        rel=friend onclick="_gaq.push([''_trackPageview'', ''/out/torlock.com'']);"><b>Torlock</b></a><br>&#9642;
+        <a href=http://www.torrentfunk.com rel=friend onclick="_gaq.push([''_trackPageview'',
+        ''/out/torrentfunk.com'']);"><b>TorrentFunk</b></a><br>&#9642; <a href=http://www.usniff.com
+        rel=external onclick="_gaq.push([''_trackPageview'', ''/out/usniff.com'']);">uSniff</a><br>&#9642;
+        <a href=http://torrent.tm rel=friend onclick="_gaq.push([''_trackPageview'',
+        ''/out/torrent.tm'']);"><b>Torrent</b></a><br>&#9642; <a href=http://www.1337x.org
+        rel=friend onclick="_gaq.push([''_trackPageview'', ''/out/1337x.org'']);">1337x</a><br>&#9642;
+        <a href=http://www.bt-chat.com rel=external onclick="_gaq.push([''_trackPageview'',
+        ''/out/bt-chat.com'']);">BT-Chat</a><br>&#9642; <a href=http://www.monova.org
+        rel=external onclick="_gaq.push([''_trackPageview'', ''/out/monova.org'']);">Monova</a><br>&#9642;
+        <a href=http://www.pnop.com rel=external onclick="_gaq.push([''_trackPageview'',
+        ''/out/pnop.com'']);">PNOP</a><br>&#9642; <a href=http://www.torrentbit.net
+        rel=external onclick="_gaq.push([''_trackPageview'', ''/out/torrenbit.net'']);">Torrentbit</a><br>&#9642;
+        <a href=http://www.torrenthound.com rel=external onclick="_gaq.push([''_trackPageview'',
+        ''/out/torrenthound.com'']);">TorrentHound</a><br>&#9642; <a href=http://www.torrents.net
+        rel=external onclick="_gaq.push([''_trackPageview'', ''/out/torrents.net'']);">Torrents.net</a><br>&#9642;
+        <a href=http://www.torrentstate.com rel=external onclick="_gaq.push([''_trackPageview'',
+        ''/out/torrentstate.com'']);">TorrentState</a><br>&#9642; <a href=http://www.bitlord.com
+        rel=external onclick="_gaq.push([''_trackPageview'', ''/out/bitlord.com'']);">BitLord</a><br><h4>What
+        is BitTorrent</h4>BitTorrent is a P2P network which allows users to share
+        large files such as movies and games with each other.<br><br>In order to download
+        torrent files, you need to install a torrent <a href=/clients.html>client</a>.<h4>Languages
+        & Goodies</h4>We are still adding support for new languages and feeds for
+        popular search engines and torrent clients.<script type="text/javascript"
+        src="https://apis.google.com/js/plusone.js"></script><g:plusone size="small"></g:plusone></td></tr></table><div
+        class=footer><b><a href="/movies.html">Movies</a> | Torrent The Lincoln Lawyer
+        2011 iTALiAN AC3 DVDRip XviD-BLW</b><br><br><a href=/contact.html>Contact</a>
+        &#9642; <a href=/news.html>News</a> &#9642; <a href=/blog.html>Blog</a> &#9642;
+        <a href=/cloud.html>Cloud</a> &#9642; <a href=/legal.html>Legal</a> &#9642;
+        <a href=/advertising.html>Advertising</a> &#9642; <a href=/privacy.html>Privacy
+        Policy</a> &#9642; <a href=/clients.html>BitTorrent Clients</a><br>&copy;
+        2013 YourBittorrent. All Rights Reserved.</div><script type="text/javascript">/*
+        CloudFlare analytics upgrade */
+
+        </script>
+
+        <script type="text/javascript" src="http://tag.wigetmedia.com/tags/ybt.js"></script></body></html>'
+    http_version: 
+  recorded_at: Wed, 06 Feb 2013 21:27:52 GMT
+- request:
+    method: head
+    uri: http://yourbittorrent.com/down/3433946.torrent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - cloudflare-nginx
+      Date:
+      - Wed, 06 Feb 2013 21:27:53 GMT
+      Content-Type:
+      - application/x-bittorrent
+      Content-Length:
+      - '11504'
+      Connection:
+      - keep-alive
+      X-Powered-By:
+      - PHP/5.3.19-1~dotdeb.0
+      Content-Disposition:
+      - attachment; filename="The.Lincoln.Lawyer.2011.iTALiAN.AC3.DVDRip.XviD-BLW.torrent"
+      Cf-Cache-Status:
+      - HIT
+      Vary:
+      - Accept-Encoding
+      Expires:
+      - Mon, 11 Feb 2013 21:27:53 GMT
+      Cache-Control:
+      - public, max-age=432000
+      Set-Cookie:
+      - __cfduid=d16e583b7b9547ce19f6b8e5832853b761360186073; expires=Mon, 23-Dec-2019
+        23:50:00 GMT; path=/; domain=.yourbittorrent.com
+      Cf-Ray:
+      - 3cb6b6cbdc10473
+    body:
+      encoding: US-ASCII
+      string: ''
+    http_version: 
+  recorded_at: Wed, 06 Feb 2013 21:27:53 GMT
+recorded_with: VCR 2.4.0

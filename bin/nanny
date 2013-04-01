@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'nanny'
+cli = Nanny::CLI.new
+cli.run!
+
