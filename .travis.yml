@@ -2,5 +2,9 @@ language: ruby
 
 rvm:
   - "1.9.3"
+  - rbx-nightly-19mode
+matrix:
+  allow_failures:
+    - rvm: rbx-nightly-19mode
 
 script: "bundle exec rspec spec"
